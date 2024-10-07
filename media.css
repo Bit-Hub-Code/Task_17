@@ -1,0 +1,50 @@
+@media screen and (width < 1220px) {
+
+    img {
+
+        width: 180px;
+
+    }
+
+    .breadCrumbs p {
+
+        font-size: 22px;
+    
+    }
+
+    .title {
+
+        font-size: 76px;
+    
+    }
+
+    .top {
+
+        font-size: 24px
+    
+    }
+    
+    .bottom {
+    
+        font-size: 32px;
+    
+    }
+
+    .block {
+
+        width: 220px;
+
+    }
+    
+}
+
+@media screen and (width < 840px) {
+
+    .title {
+
+        font-size: 92px;
+        max-height: 650px;
+
+    }
+
+}

@@ -1,0 +1,102 @@
+* {
+
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+
+}
+
+html,
+body {
+
+    width: 100%;
+    height: 100%;
+    background-color: #004242;
+
+}
+
+.container {
+
+    width: 100%;
+    height: 100%;
+
+}
+
+.breadCrumbs p {
+
+    color: #989896;
+    font-size: 18px;
+    margin: 40px;
+
+}
+
+.title {
+
+    font-size: 72px;
+    font-weight: bold;
+    margin: 40px;
+    margin-top: 80px;
+
+}
+
+.info {
+
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    margin: 40px;
+    margin-top: 80px;
+
+}
+
+.specifications {
+
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+
+}
+
+.author_Comments {
+
+    display: flex;
+    flex-direction: row;
+
+}
+
+.published_Updated {
+
+    display: flex;
+    flex-direction: row;
+
+}
+
+.top {
+
+    color: #989896;
+    font-size: 20px
+
+}
+
+.bottom {
+
+    font-size: 28px;
+
+}
+
+img {
+
+    width: 140px;
+    margin-right: 40px;
+
+}
+
+.block {
+
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    margin: 20px;
+    width: 200px;
+
+}
